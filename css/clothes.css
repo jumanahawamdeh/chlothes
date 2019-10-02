@@ -1,0 +1,27 @@
+body {
+    background-color: indianred
+}
+ header h1{
+     columns:RED;
+     text-align:center;
+     font-size:20px;
+     display:block;
+ }
+a {
+display: inline-block;
+padding: 50px;
+ }
+ footer {
+     text-align: center;
+     color: yellow;
+     background-color: red;
+ }
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
